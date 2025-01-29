@@ -22,17 +22,17 @@ This is a simple implementation of the classic Pac-Man game, designed to run in 
 - **VB.NET Compiler**: You can use Visual Studio or any other VB.NET compiler to run this project.
 
 ### Installation
-- Clone the repository:
+1. Clone the repository:
 ``` bash
 git clone https://github.com/Pac-Dessert1436/Terminal-PAC-MAN-Game.git
 ```
-- Navigate to the project directory:
+2. Navigate to the project directory:
 ``` bash
 cd Terminal-PAC-MAN-Game
 ``` 
-- Open the project in Visual Studio or your preferred IDE.
+3. Open the project in Visual Studio or your preferred IDE.
 
-- Compile and run the project.
+4. Compile and run the project.
 
 ## Controls
 
@@ -45,6 +45,7 @@ cd Terminal-PAC-MAN-Game
 - The player controls Pac-Man, represented by the `@` symbol.
 - Collect pellets (`.`) and power pellets (`*`) to increase your score.
 - Avoid ghosts represented by the `&` symbol.
+- Remember to collect cherries (`%`) that appears from time to time!
 
 ### Ghosts
 - Ghosts move around the maze using a basic A* pathfinding algorithm. The algorithm is somewhat inaccurate for the moment, and therefore needs future improvements. 
