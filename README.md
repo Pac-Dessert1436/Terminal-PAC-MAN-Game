@@ -4,6 +4,8 @@
 
 This is a simple implementation of the classic Pac-Man game, designed to run in a terminal environment using VB.NET. The game features basic gameplay mechanics, including player movement, enemy AI, power pellets, and level progression. It is intended for educational purposes and as a fun project for developers interested in game development with VB.NET.
 
+![](screenshot.png)
+
 ## Features
 
 - **Classic Gameplay**: Navigate through a maze, collect pellets, and avoid ghosts.
@@ -16,8 +18,8 @@ This is a simple implementation of the classic Pac-Man game, designed to run in 
 ## Getting Started
 
 ### Prerequisites
-- .NET Framework: Ensure you have the .NET Framework installed on your system.
-- VB.NET Compiler: You can use Visual Studio or any other VB.NET compiler to run this project.
+- **.NET SDK 8.0**: Ensure you have the .NET SDK 8.0 installed on your system (.NET Framework might be optional but is recommended).
+- **VB.NET Compiler**: You can use Visual Studio or any other VB.NET compiler to run this project.
 
 ### Installation
 - Clone the repository:
